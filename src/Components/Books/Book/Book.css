@@ -1,0 +1,44 @@
+.bookCard{
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px;
+    margin: 2px;
+    padding: 20px;
+    width: 90%;
+    height: auto;
+    border-left: 5px solid #FF4F19;
+    background-color: #717171;
+    max-width: 1400px;
+}
+.imgBook{
+    max-height: 200px;   
+    width: 100%;
+    max-width: 140px; 
+}
+.bookLink{
+    overflow: hidden;
+    display: inline-block;
+    margin-right: 5px;
+    color: black;
+}
+
+.listStyle{
+    font-size: 22px;
+    text-align: left;
+    width: 50%;
+}
+.bookPrice{
+    text-align: justify;
+    height: 70px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    line-height: 1.4;
+    font-size:22px;
+}
+
+.bookRightContainer{
+    position:relative;
+}
+.cover {
+    width: 25%;
+}

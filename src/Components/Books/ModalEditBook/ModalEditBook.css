@@ -1,0 +1,14 @@
+.addButton{
+    position: fixed !important;
+    bottom: 13px !important;
+    right: 17px !important;
+}
+.editButton{
+    position: absolute;
+    top: 6px;
+    display: inline-block;
+    right: 7px;
+}
+.containerAddButton{
+    position: relative;
+}

@@ -1,0 +1,24 @@
+.LoginPage {
+    background-color: #2a2d34;
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+.loginHeader{
+    color: rgb(255, 255, 255);
+}
+
+.panelStyle {
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 350px;
+    background-color: #717171;
+    border-radius: 5px;
+    border-left: 5px solid #FF4F19;
+};

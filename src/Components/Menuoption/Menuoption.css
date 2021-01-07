@@ -1,0 +1,44 @@
+.menuItem{
+    color: #fff;
+    text-decoration: none;
+    padding: 17px;
+    background-color: #565656;
+    margin: 0px 25px 0px 25px;
+    width: 150px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.menuItem:hover{
+    color:white;
+    background-color: #4d4d4d;
+    text-decoration: none;
+}
+.logout {
+    color: #fff;
+    padding: 7px;
+    background-color: #565656;
+    margin: 0px 25px 0px 25px;
+    width: 72px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    float: right;
+}
+@media only screen and (max-width: 768px) {
+
+    .menuItem{
+        color: #fff;
+    text-decoration: none;
+    padding: 17px;
+    background-color: #565656;
+    margin: 0px 10px 0px 10px;
+    width: 126px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    }
+    }
+
+    

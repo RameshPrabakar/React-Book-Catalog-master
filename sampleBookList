@@ -1,0 +1,66 @@
+[
+        {
+          "tittle": "The Harry Potter series",
+          "category": "Fiction",
+          "authorName": "J.K. Rowling",
+          "publisherName": "Penguin Books India",
+          "id": 0,
+          "price": "20"
+        },
+        {
+          "tittle": "A Game of Thrones",
+          "category": "Fiction",
+          "authorName": "George R.R. Martin",
+          "publisherName": "Orient Longman",
+          "id": 1,
+          "price": "210"
+        },
+        {
+          "tittle": "To Kill a Mockingbird",
+          "category": "Fiction",
+          "authorName": "Harper Lee",
+          "publisherName": "S. Chand Publishing",
+          "id": 2,
+          "price": "220"
+        },
+        {
+          "tittle": "Sapiens",
+          "category": "History",
+          "authorName": "Yuval Noah Harari",
+          "publisherName": "Taxman Publications Limited",
+          "id": 3,
+          "price": "40"
+        },
+        {
+          "tittle": "Thinking, Fast and Slow",
+          "category": "Psychology",
+          "authorName": "Daniel Kahneman",
+          "publisherName": "Cambridge",
+          "id": 4,
+          "price": "120"
+        },
+        {
+          "tittle": "The Mysteries of Human Behavior",
+          "category": "Psychology",
+          "authorName": "Mark Leary",
+          "publisherName": "MacMillan",
+          "id": 5,
+          "price": "220"
+        },
+        {
+          "tittle": "Bossy Pants",
+          "category": "Business",
+          "authorName": "Yuval Noah Harari",
+          "publisherName": "Hachette India",
+          "id": 6,
+          "price": "240"
+        },
+        {
+          "tittle": "The House of God",
+          "category": "Science",
+          "authorName": "Samuel Shem",
+          "publisherName": "Random House India",
+          "id": 7,
+          "price": "200"
+        }        
+]
